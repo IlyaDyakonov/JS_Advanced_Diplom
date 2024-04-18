@@ -1,4 +1,4 @@
-import GameStateService from "../gameStateService";
+import GameStateService from "../GameStateService";
 
 
 describe('GameStateService', () => {
