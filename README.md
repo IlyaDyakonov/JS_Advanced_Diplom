@@ -1,4 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/3ne52q9j6dwxgaly?svg=true)](https://ci.appveyor.com/project/IlyaDyakonov/js-advanced-diplom)
+[![Build status](https://ci.appveyor.com/api/projects/status/iisicc1k5l11jvqb?svg=true)](https://ci.appveyor.com/project/IlyaDyakonov/js-advanced-diplom)
+
 
 
 # Дипломное задание к курсу «Продвинутый JavaScript». Retro Game
